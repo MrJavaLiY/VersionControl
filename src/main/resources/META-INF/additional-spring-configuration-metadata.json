@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "server.version",
+      "type": "java.lang.String",
+      "description": "版本控制必填项，默认值0则代表不执行",
+      "defaultValue": "0"
+    }
+  ],
+  "hints": []
+}
