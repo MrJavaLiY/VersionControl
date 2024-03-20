@@ -6,7 +6,7 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * 见<li>{@link com.version.VersionControlApplicationTests}</li>
+ * 见SoringBootTest
  * @author ly
  */
 @Service
